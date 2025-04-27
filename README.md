@@ -17,15 +17,11 @@ A simple AI chatbot built using **Python** and **Sentence Transformers**, traine
 📁 AI_ChatBot │-- 📄 Final_ChatBot.py # Main chatbot code │-- 📄 GUI.py # GUI interface │-- 📄 ChatBot_Dataset.csv # Training dataset 
 
 ## 🔧 Installation & Setup
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/MansiPawar-DS7/AI_ChatBot.git
-
-2. Install required libraries:
+1. Install required libraries:
     ```bash
    pip install pandas sentence-transformers torch
 
-3. Run the chatbot:
+2. Run the chatbot:
 
 ## 📌 **Future Improvements**
 
